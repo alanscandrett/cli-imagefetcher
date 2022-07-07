@@ -1,0 +1,161 @@
+{
+   "_links": {
+      "_first": "https://api.planet.com/data/v1/searches/164c17e9ebd147daba4858224ef741ff/results?_page=eyJwYWdlX3NpemUiOiAyNTAsICJzb3J0X2J5IjogInB1Ymxpc2hlZCIsICJzb3J0X2Rlc2MiOiB0cnVlLCAic29ydF9zdGFydCI6IG51bGwsICJzb3J0X2xhc3RfaWQiOiBudWxsLCAic29ydF9wcmV2IjogZmFsc2UsICJxdWVyeV9wYXJhbXMiOiB7fX0%3D",
+      "_next": "https://api.planet.com/data/v1/searches/164c17e9ebd147daba4858224ef741ff/results?_page=eyJwYWdlX3NpemUiOiAyNTAsICJzb3J0X2J5IjogInB1Ymxpc2hlZCIsICJzb3J0X2Rlc2MiOiB0cnVlLCAic29ydF9zdGFydCI6ICIyMDIwLTAyLTI3VDA2OjUwOjUwLjAwMDAwMFoiLCAic29ydF9sYXN0X2lkIjogIjMwODgzNjBfNTA1MjgxN18yMDIwLTAxLTMwXzEwMTgiLCAic29ydF9wcmV2IjogZmFsc2UsICJxdWVyeV9wYXJhbXMiOiB7fX0%3D",
+      "_self": "https://api.planet.com/data/v1/searches/164c17e9ebd147daba4858224ef741ff/results?_page=eyJwYWdlX3NpemUiOiAyNTAsICJzb3J0X2J5IjogInB1Ymxpc2hlZCIsICJzb3J0X2Rlc2MiOiB0cnVlLCAic29ydF9zdGFydCI6IG51bGwsICJzb3J0X2xhc3RfaWQiOiBudWxsLCAic29ydF9wcmV2IjogZmFsc2UsICJxdWVyeV9wYXJhbXMiOiB7fX0%3D"
+   },
+   "features": [
+      {
+         "_links": {
+            "_self": "https://api.planet.com/data/v1/item-types/PSScene/items/20160831_212705_0c43",
+            "assets": "https://api.planet.com/data/v1/item-types/PSScene/items/20160831_212705_0c43/assets/",
+            "thumbnail": "https://tiles.planet.com/data/v1/item-types/PSScene/items/20160831_212705_0c43/thumb"
+         },
+         "_permissions": [
+            "assets.basic_analytic_4b:download",
+            "assets.basic_analytic_4b_rpc:download",
+            "assets.basic_analytic_4b_xml:download",
+            "assets.basic_udm2:download",
+            "assets.ortho_analytic_3b:download",
+            "assets.ortho_analytic_3b_xml:download",
+            "assets.ortho_analytic_4b:download",
+            "assets.ortho_analytic_4b_xml:download",
+            "assets.ortho_udm2:download",
+            "assets.ortho_visual:download",
+            "assets.ps3b_analytic:download",
+            "assets.ps3b_analytic_dn:download",
+            "assets.ps3b_analytic_dn_xml:download",
+            "assets.ps3b_analytic_xml:download",
+            "assets.ps3b_basic_analytic:download",
+            "assets.ps3b_basic_analytic_dn:download",
+            "assets.ps3b_basic_analytic_dn_rpc:download",
+            "assets.ps3b_basic_analytic_dn_xml:download",
+            "assets.ps3b_basic_analytic_rpc:download",
+            "assets.ps3b_basic_analytic_xml:download",
+            "assets.ps3b_basic_udm:download",
+            "assets.ps3b_udm:download",
+            "assets.ps3b_visual_xml:download",
+            "assets.ps4b_analytic:download",
+            "assets.ps4b_analytic_dn:download",
+            "assets.ps4b_analytic_dn_xml:download",
+            "assets.ps4b_analytic_xml:download",
+            "assets.ps4b_basic_analytic:download",
+            "assets.ps4b_basic_analytic_dn:download",
+            "assets.ps4b_basic_analytic_dn_nitf:download",
+            "assets.ps4b_basic_analytic_dn_rpc:download",
+            "assets.ps4b_basic_analytic_dn_rpc_nitf:download",
+            "assets.ps4b_basic_analytic_dn_xml:download",
+            "assets.ps4b_basic_analytic_dn_xml_nitf:download",
+            "assets.ps4b_basic_analytic_nitf:download",
+            "assets.ps4b_basic_analytic_rpc:download",
+            "assets.ps4b_basic_analytic_rpc_nitf:download",
+            "assets.ps4b_basic_analytic_xml:download",
+            "assets.ps4b_basic_analytic_xml_nitf:download",
+            "assets.ps4b_basic_udm:download",
+            "assets.ps4b_udm:download"
+         ],
+         "assets": [
+            "basic_analytic_4b",
+            "basic_analytic_4b_rpc",
+            "basic_analytic_4b_xml",
+            "basic_udm2",
+            "ortho_analytic_3b",
+            "ortho_analytic_3b_xml",
+            "ortho_analytic_4b",
+            "ortho_analytic_4b_xml",
+            "ortho_udm2",
+            "ortho_visual",
+            "ps3b_analytic",
+            "ps3b_analytic_dn",
+            "ps3b_analytic_dn_xml",
+            "ps3b_analytic_xml",
+            "ps3b_basic_analytic",
+            "ps3b_basic_analytic_dn",
+            "ps3b_basic_analytic_dn_rpc",
+            "ps3b_basic_analytic_dn_xml",
+            "ps3b_basic_analytic_rpc",
+            "ps3b_basic_analytic_xml",
+            "ps3b_basic_udm",
+            "ps3b_udm",
+            "ps3b_visual_xml",
+            "ps4b_analytic",
+            "ps4b_analytic_dn",
+            "ps4b_analytic_dn_xml",
+            "ps4b_analytic_xml",
+            "ps4b_basic_analytic",
+            "ps4b_basic_analytic_dn",
+            "ps4b_basic_analytic_dn_nitf",
+            "ps4b_basic_analytic_dn_rpc",
+            "ps4b_basic_analytic_dn_rpc_nitf",
+            "ps4b_basic_analytic_dn_xml",
+            "ps4b_basic_analytic_dn_xml_nitf",
+            "ps4b_basic_analytic_nitf",
+            "ps4b_basic_analytic_rpc",
+            "ps4b_basic_analytic_rpc_nitf",
+            "ps4b_basic_analytic_xml",
+            "ps4b_basic_analytic_xml_nitf",
+            "ps4b_basic_udm",
+            "ps4b_udm"
+         ],
+         "geometry": {
+            "coordinates": [
+               [
+                  [
+                     -121.25363533335903,
+                     38.102991574438306
+                  ],
+                  [
+                     -121.31213175664728,
+                     38.138371663643476
+                  ],
+                  [
+                     -121.45472224588369,
+                     37.989794360274175
+                  ],
+                  [
+                     -121.39597506862792,
+                     37.954766052405795
+                  ],
+                  [
+                     -121.25363533335903,
+                     38.102991574438306
+                  ]
+               ]
+            ],
+            "type": "Polygon"
+         },
+         "id": "20160831_212705_0c43",
+         "properties": {
+            "acquired": "2016-08-31T21:27:05.553514Z",
+            "anomalous_pixels": 0,
+            "clear_confidence_percent": 99,
+            "clear_percent": 100,
+            "cloud_cover": 0,
+            "cloud_percent": 0,
+            "ground_control": true,
+            "gsd": 3.1,
+            "heavy_haze_percent": 0,
+            "instrument": "PS2",
+            "item_type": "PSScene",
+            "light_haze_percent": 0,
+            "pixel_resolution": 3,
+            "provider": "planetscope",
+            "published": "2021-01-27T17:37:59Z",
+            "publishing_stage": "finalized",
+            "quality_category": "standard",
+            "satellite_azimuth": 168.6,
+            "satellite_id": "0c43",
+            "shadow_percent": 0,
+            "snow_ice_percent": 0,
+            "strip_id": "232154",
+            "sun_azimuth": 217.1,
+            "sun_elevation": 55,
+            "updated": "2021-01-27T17:37:59Z",
+            "view_angle": 1.8,
+            "visible_confidence_percent": 81,
+            "visible_percent": 100
+         },
+         "type": "Feature"
+      }
+   ]
+}

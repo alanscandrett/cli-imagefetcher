@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "cli-imagefetcher"
+version = "0.5.0"
+description = "Search for and order products from an EO API"
+authors = ["Alan Scandrett <alanscandrett@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+typer = "^0.5.0"
+requests = "^2.28.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+black = {version = "^22.6.0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+cli-imagefetcher = "cli_imagefetcher.cli:main"

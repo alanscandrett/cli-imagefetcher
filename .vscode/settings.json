@@ -1,0 +1,7 @@
+{
+    "esbonio.sphinx.confDir": "",
+    "cSpell.words": [
+        "typer"
+    ],
+    "python.formatting.provider": "black"
+}
