@@ -8,6 +8,11 @@ command line utility built with `typer`.
 For an understanding of the application architecture open up the file
 `applicationDiagram.drawio` on `App Diagrams <https://app.diagrams.net/>`_.
 
+Distribution
+------------
+`pip` via `PyPi <https://pypi.org/project/cli-imagefetcher/#history>`_
+A repo can also be found on `Github <https://github.com/alanscandrett/cli-imagefetcher>`_
+
 Features
 --------
 
